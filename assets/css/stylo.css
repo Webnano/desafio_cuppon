@@ -1,0 +1,75 @@
+.body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.card-title{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.card-text{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.texxto{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.precio{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.logo-white{
+    width: 91px;
+    height: 25px;
+}
+
+.container-fluid{
+    background-color: #28a745;
+    
+}
+#navbarNav{
+    justify-content: end;  
+    
+}
+.nav-link{
+    color:#fff
+}
+.dscto{
+    color: #28a745;
+}
+
+.forma{
+    padding: 15px;
+    margin: auto;
+}
+
+.form-label{
+    text-align: center;
+    color: #fff;
+}
+
+.boton{
+    justify-content: center;
+    display: flex;
+
+}
+
+.derecho{
+    padding: 18px;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+
